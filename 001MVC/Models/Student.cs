@@ -9,5 +9,6 @@ namespace _001MVC.Models
     {
         public int StudentId { get; set; }
         public string StudentName { get; set; }
+        public int MyProperty { get; set; }
     }
 }
